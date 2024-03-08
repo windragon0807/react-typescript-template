@@ -1,4 +1,4 @@
-# MCard
+# React TypeScript Template
 
 ## 설치
 
