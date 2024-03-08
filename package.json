@@ -1,6 +1,6 @@
 {
-  "name": "ryong-trip",
-  "version": "0.1.0",
+  "name": "react-typescript-template",
+  "version": "1.0.0",
   "private": true,
   "browserslist": {
     "production": [
@@ -32,17 +32,11 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "@zoom/meetingsdk": "^3.1.6",
-    "date-fns": "^2.30.0",
-    "firebase": "^10.8.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-infinite-scroll-component": "^6.1.0",
-    "react-markdown": "^9.0.1",
     "react-query": "^3.39.3",
     "react-router-dom": "^6.22.1",
     "react-scripts": "5.0.1",
-    "swiper": "^10.3.1",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
